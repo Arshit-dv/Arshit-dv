@@ -5,7 +5,7 @@
 </p>
 -->
 
-<h1 align="center">Hi 👋, I'm Arshit Choudhary</h1>
+<h1 align="center">Hi , I'm Arshit Choudhary</h1>
 
 <h3 align="center">Machine Learning • Data Science • Agentic AI</h3>
 
@@ -17,12 +17,12 @@
 
 <h2 align="center">💫 About Me</h2>
 
-- 🎓 Computer Science Undergraduate at **VIT Chennai**
-- 🤖 Passionate about **Artificial Intelligence, Machine Learning & Data Science**
-- 🌱 Currently learning **LangChain, LangGraph & Agentic AI**
-- 💻 Building practical AI applications and intelligent software
-- 🚀 Exploring Open Source and modern software engineering
-- 📚 Always learning something new
+-  Computer Science Undergraduate at **VIT Chennai**
+-  Passionate about **Artificial Intelligence, Machine Learning & Data Science**
+-  Currently learning **Agentic AI**
+-  Building practical AI applications and intelligent software
+-  Exploring Open Source and modern software engineering
+-  Always learning something new
 
 ---
 
